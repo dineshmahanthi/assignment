@@ -1,17 +1,17 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=barada02&color=blueviolet&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/barada02?style=social)](https://github.com/barada02)
-[![GitHub stars](https://img.shields.io/github/stars/barada02?style=social)](https://github.com/barada02)
+![Profile Views](https://komarev.com/ghpvc/?username=dineshmahanthi&color=blueviolet&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/dineshmahanthi?style=social)](https://github.com/dineshmahanthi)
+[![GitHub stars](https://img.shields.io/github/stars/dineshmahanthi?style=social)](https://github.com/dineshmahanthi)
 
 </div>
 
 <div style="font-family: Arial, sans-serif;">
-  <h1 align="center">Hi 👋, I'm Dinesh Kumar (Dk) 😎</h1>
-  <h3 align="center">Aspiring AI/ML Engineer | Partime Developer </h3>
+  <h1 align="center">Hi 👋, I'm Dinesh Mahanthi 😎</h1>
+  <h3 align="center">Aspiring Full Stack + AI Engineer 🚀</h3>
   
   <p align="center">
-    <em>From Bharat (India 🇮🇳) | Building the Future with AI/ML</em>
+    <em>From Bharat (India 🇮🇳) | Building the Future with Full Stack & AI</em>
   </p>
 
 <p align="center">
@@ -22,13 +22,13 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Chandan+%F0%9F%91%8B;I+build+ML+Models+%26+Intelligent+Systems+%F0%9F%A4%96;Working+on+Agent+Frameworks+%26+Multi-Agent+Applications+%F0%9F%A7%A0;Edge+ML+%26+LLM+Model+Deployment+Enthusiast+%F0%9F%9A%80;Passionate+about+Deep+Learning+%26+Computer+Vision+%F0%9F%92%A1;Always+learning%2C+always+building+%F0%9F%93%9A;Let's+create+something+amazing+together!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Dinesh+Mahanthi+%F0%9F%91%8B;Aspiring+Full+Stack+%2B+AI+Engineer+%F0%9F%9A%80;Building+Web+Apps+%26+AI+Solutions+%F0%9F%92%BB;Frontend+%7C+Backend+%7C+Machine+Learning+%F0%9F%A4%96;Passionate+about+Modern+Web+Technologies+%F0%9F%8C%90;Always+learning%2C+always+building+%F0%9F%93%9A;Let's+create+something+amazing+together!+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-- 🔭 Currently building **ML Models & Intelligent Systems**
-- 🤖 Working on **Agent Frameworks & Multi-Agent Applications**
-- 🚀 Focused on **Edge ML & LLM Model Deployment**
-- 💡 Passionate about **Deep Learning, Computer Vision & NLP**
+- 🔭 Currently learning **Full Stack Development & AI/ML**
+- 💻 Building **Web Applications with Modern Frameworks**
+- 🤖 Exploring **AI, Machine Learning & Intelligent Systems**
+- 🌐 Working with **Frontend & Backend Technologies**
 - 🎯 Building innovative solutions that solve real-world problems
 - 📚 Always learning and exploring new technologies
 
@@ -174,7 +174,7 @@
 <table>
   <tr>
     <td align="center">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=barada02&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dineshmahanthi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center" rowspan="2">
       <img src="ghibili.gif" width="400" alt="Ghibli Animation" />
@@ -182,7 +182,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barada02&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dineshmahanthi&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -190,14 +190,14 @@
 <div align="center">
   
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=barada02)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dineshmahanthi)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
   
 ## 📈 Contribution Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=barada02&theme=github-compact&hide_border=trute)](https://github.com/barada02)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dineshmahanthi&theme=github-compact&hide_border=true)](https://github.com/dineshmahanthi)
 
 </div>
 
@@ -205,20 +205,20 @@
   
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-kumar-barada-a3971b194/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mr_ck__)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.____kumar__/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dineshmahanthi/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dineshmahanthi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dineshmahanthi/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandanbarada2@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshmahanthi@gmail.com)
 
 </div>
 
 
 ## 🎉 Fun Facts
 
-- 🥾 I love hiking and exploring new trails
-- 🎬 Big fan of sci-fi movies and books
-- 🤖 Fascinated by the intersection of AI and creativity
+- 💻 Love building full stack applications from scratch
+- 🤖 Fascinated by AI and its endless possibilities
+- 🎬 Enjoy watching tech talks and coding tutorials
 - ☕ Fueled by coffee and curiosity
 
 ---
@@ -234,14 +234,14 @@
 ## 🐍 Watch the Snake Eat My Contributions!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barada02/barada02/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barada02/barada02/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/barada02/barada02/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dineshmahanthi/dineshmahanthi/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dineshmahanthi/dineshmahanthi/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dineshmahanthi/dineshmahanthi/output/snake.svg">
 </picture>
 
 <br>
 
-⭐️ From [barada02](https://github.com/barada02) with ❤️
+⭐️ From [dineshmahanthi](https://github.com/dineshmahanthi) with ❤️
 
 </div>
 </div>
